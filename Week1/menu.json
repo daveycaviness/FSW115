@@ -1,0 +1,104 @@
+{
+    "appetizers": [
+        {
+            "item1":[
+                {
+                    "name": "nachos",
+                    "ingredients": ["lettuce", "tomatoes", "jalapenos", "chips", "black olives", "sour cream", "ground beef", "shredded chicken"],
+                    "discription":"A tasty loaded mountain high plate of delicious nachos." 
+                }
+            ],
+
+            "item2":[
+                {
+                    "name": "mozzarella sticks",
+                    "ingredients":["breading", "mozzarella cheese", "seasoning"],
+                    "discription":"A cheesy breaded deep fried stick the oooey and gooey."
+                }
+            ]
+
+    }
+
+    ],
+
+    "hotSandwiches":[
+        {
+            "item1":[
+                {
+                    "name": "philly cheese steak sandwich",
+                    "ingredients":["bread", "white cheese", "steak", "grilled onions", "grilled green peppers", "mushrooms"],
+                    "discription":"A delicious philly style sandwich with the works."
+                }
+            ],
+
+            "item2":[
+                {
+                    "name":"italian meat balls and marinara sandwich",
+                    "ingredients":["bread", "mozzarella cheese", "marinara sauce", "italian meat balls", "lettuce"],
+                    "discription":"An Italian style meatball and mozzarella sandwich thats tasty and delicious."
+                }
+            ]
+
+        }
+    ],
+
+    "coldSandwiches":[
+        {
+            "item1":[
+                {
+                    "name":"jerk chicken sandwich",
+                    "ingredients":["italian bread", "jerk chicken deli slices", "american chedder", "lettuce", "tomatoes", "jalapenos", "bell peppers", "banana peppers"],
+                    "discription":"take a trip to the island of Jamaican with this spicy jerk chicken sandwich."
+                }
+            ],
+
+            "item2":[
+                {
+                    "name":"triple meat trio",
+                    "ingredients":["italian bread", "american cheese", "salami", "pepperoni", "honey ham", "lettuce", "tomatoes", "black olives", "bell peppers"],
+                    "discription":"take a blast to the past with this american original style sandwich with the works."
+                }
+            ]
+        }
+    ],
+
+    "desserts":[
+        {
+            "item1":[
+                {
+                    "name": "papa's banana pudding",
+                    "ingredients":["bananas", "nilla wafers", "vanilla extract", "eggs", "milk"],
+                    "discription":"childhood favorite banana pudding just the way my papa used to make it, creamy and delicious."
+                }
+            ],
+
+            "item2":[
+                {
+                    "name":"southern style pecan pie",
+                    "ingredients":["pecans", "pie crust", "eggs", "milk"],
+                    "discription":"a classic southern favorite."
+                }
+            ]
+        }
+    ],
+
+    "drinks":[
+        {
+            "item1":[
+                {
+                    "name":"southern style iced tea",
+                    "ingredients":["black tea", "water", "sugar cane"],
+                    "discription": "southern style sweetened iced tea."
+                }
+            ],
+
+            "item2":[
+                {
+                    "name":"country style lemonade",
+                    "ingredients":["lemons", "water", "sugar cane"],
+                    "discription":"fresh squeezed lemons sweetened with raw sugar cane thats really refreshing."
+                }
+            ]
+        }
+    ]
+}
