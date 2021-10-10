@@ -1,0 +1,44 @@
+body{
+    background: url("https://allcarlogos.net/wp-content/uploads/2013/02/car-logos-collage.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;     
+}
+    
+#newCar>ul{
+    border: 10px ridge red;
+    font-family: Shrikhand;
+    font-size:larger;
+    text-decoration: underline 2px solid red;
+    background: cornsilk;
+    opacity: 95%;
+    color: cornflowerblue
+}
+
+#newCar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#flexContainer>h1{
+    font-family:Shrikhand;
+    text-decoration: underline 3px solid red;
+    border: 10px ridge red;
+    background: cornsilk;
+    color: cornflowerblue
+
+}
+
+#flexContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
