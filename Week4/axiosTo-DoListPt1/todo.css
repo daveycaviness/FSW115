@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: cornflowerblue;
+    text-decoration: 5px underline;
+    font-size: 50px;
+} 
+
+h2, h3{
+    text-align: center;
+    color: tomato
+}
+
+body{
+    background-color:palegreen;
+}
