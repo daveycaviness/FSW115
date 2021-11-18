@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+    color:springgreen;
+    text-decoration: 5px double underline;
+    font-size: 50px;
+    font-family: 'Aclonica', sans-serif;
+} 
+
+h2, h3{
+    text-align: center;
+    color:slateblue;
+    font-family: 'Aclonica', sans-serif; 
+    font-size: 30px;
+    text-decoration: 5px dotted underline tomato;
+}
+
+p{
+    font-weight: bolder;
+    text-align: center;
+    font-family: 'Aclonica', sans-serif; 
+    font-size: 30px;
+    text-decoration: 5px dotted underline tomato;
+    color: aqua;  
+}
+
+body{
+    background: url("https://www.pixelstalk.net/wp-content/uploads/2016/03/Beautiful-Natural-Wallpaper.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;  
+}
+
+#flexContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputBox{
+    margin: 10px;
+    width: 160px;
+}
+
+.newTask{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.define{
+    font-weight: bolder;
+    color: aqua;
+}
